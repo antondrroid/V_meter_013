@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "power_modules")(type "KiCad")(uri "${KIPRJMOD}/power_modules.kicad_sym")(options "")(descr ""))
+  (lib (name "Diodes")(type "KiCad")(uri "${KIPRJMOD}/Diodes.kicad_sym")(options "")(descr ""))
+  (lib (name "Diodes_shottky")(type "KiCad")(uri "${KIPRJMOD}/Diodes_shottky.kicad_sym")(options "")(descr ""))
+)

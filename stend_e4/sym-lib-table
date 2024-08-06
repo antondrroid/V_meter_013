@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "[LTM][Diodes]")(type "KiCad")(uri "D:/kikad_projects/stend_1/[LTM][Diodes].kicad_sym")(options "")(descr ""))
+  (lib (name "467291.014-cache")(type "KiCad")(uri "D:/kikad_projects/stend_1/467291.014-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "467291.014-cache1")(type "KiCad")(uri "D:/kikad_projects/stend_1/467291.014-cache1.kicad_sym")(options "")(descr ""))
+  (lib (name "467291.014-rescue")(type "KiCad")(uri "D:/kikad_projects/stend_1/467291.014-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "Diodes")(type "KiCad")(uri "D:/kikad_projects/stend_1/Diodes.kicad_sym")(options "")(descr ""))
+  (lib (name "Diodes_shottky")(type "KiCad")(uri "D:/kikad_projects/stend_1/Diodes_shottky.kicad_sym")(options "")(descr ""))
+  (lib (name "kikadtest1-cache")(type "KiCad")(uri "D:/kikad_projects/stend_1/kikadtest1-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "kikadtest1-rescue")(type "KiCad")(uri "D:/kikad_projects/stend_1/kikadtest1-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "power_modules")(type "KiCad")(uri "D:/kikad_projects/stend_1/power_modules.kicad_sym")(options "")(descr ""))
+  (lib (name "Device_GOST_my")(type "KiCad")(uri "D:/kikad_projects/Device_GOST_my.kicad_sym")(options "")(descr ""))
+)

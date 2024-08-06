@@ -1,0 +1,54 @@
+09-12 04:25:23 replicate_layout.action_replicate_layout 305:Plugin executed on: 'win32'
+09-12 04:25:23 replicate_layout.action_replicate_layout 306:Plugin executed with python version: '3.9.6 (default, Aug 27 2021, 19:25:41) [MSC v.1929 64 bit (AMD64)]'
+09-12 04:25:23 replicate_layout.action_replicate_layout 307:KiCad build version: (5.99.0-12218-g749d2d5987)
+09-12 04:25:23 replicate_layout.action_replicate_layout 308:Replicate layout plugin version: 76 started
+09-12 04:25:23 replicate_layout.action_replicate_layout 339:Preparing replicator with K1 as a reference
+09-12 04:25:23 replicate_layout.replicatelayout 141:getting a list of all footprints on board
+09-12 04:25:23 replicate_layout.replicatelayout 162:total modules:298
+09-12 04:25:23 replicate_layout.action_replicate_layout 366:source anchor footprint is 'K1'
+Located on:['', '5_RELAY1_G6K-2F-Y-5VDC']
+With filenames:['stend_main.kicad_sch', 'p5.kicad_sch']
+With sheet_id:['', '5_RELAY1_G6K-2F-Y-5VDC']
+09-12 04:25:23 replicate_layout.action_replicate_layout 371:Corresponding footprints are 
+[('K22', ['', '5_RELAY22_G6K-2F-Y-5VDC5']), ('K8', ['', '5_RELAY8_G6K-2F-Y-5VDC5']), ('K18', ['', '5_RELAY18_G6K-2F-Y-5VDC3']), ('K11', ['', '5_RELAY11_G6K-2F-Y-5VDC2']), ('K12', ['', '5_RELAY12_G6K-2F-Y-5VDC3']), ('K7', ['', '5_RELAY7_G6K-2F-Y-5VDC4']), ('K10', ['', '5_RELAY10_G6K-2F-Y-5VDC2']), ('K17', ['', '5_RELAY17_G6K-2F-Y-5VDC2']), ('K6', ['', '5_RELAY6_G6K-2F-Y-5VDC3']), ('K1', ['', '5_RELAY1_G6K-2F-Y-5VDC']), ('K2', ['', '5_RELAY2_G6K-2F-Y-5VDC1']), ('K14', ['', '5_RELAY14_G6K-2F-Y-5VDC4']), ('K5', ['', '5_RELAY5_G6K-2F-Y-5VDC2']), ('K13', ['', '5_RELAY13_G6K-2F-Y-5VDC3']), ('K20', ['', '5_RELAY20_G6K-2F-Y-5VDC4']), ('K24', ['', '5_RELAY24_G6K-2F-Y-5VDC7']), ('K4', ['', '5_RELAY4_G6K-2F-Y-5VDC2']), ('K16', ['', '5_RELAY16_G6K-2F-Y-5VDC6']), ('K19', ['', '5_RELAY19_G6K-2F-Y-5VDC3']), ('K21', ['', '5_RELAY21_G6K-2F-Y-5VDC4']), ('K3', ['', '5_RELAY3_G6K-2F-Y-5VDC1']), ('K15', ['', '5_RELAY15_G6K-2F-Y-5VDC5']), ('K23', ['', '5_RELAY23_G6K-2F-Y-5VDC6']), ('K9', ['', '5_RELAY9_G6K-2F-Y-5VDC1'])]
+09-12 04:25:23 replicate_layout.action_replicate_layout 384:Showing dialog
+09-12 04:25:23 replicate_layout.action_replicate_layout 388:Pcbnew position: wx.Point(-1923, 15)
+09-12 04:25:23 replicate_layout.action_replicate_layout 394:Display 0: wx.Rect(0, 0, 1920, 1080)
+09-12 04:25:23 replicate_layout.action_replicate_layout 394:Display 1: wx.Rect(-1920, 0, 1920, 1080)
+09-12 04:25:23 replicate_layout.action_replicate_layout 398:Toolbar position: wx.Point(1678, 129)
+09-12 04:25:23 replicate_layout.action_replicate_layout 405:Dialog position: wx.Point(1365, 129)
+09-12 04:25:56 replicate_layout.replicatelayout 177:construcing a list of sheets suitable for replication on level:'5_RELAY1_G6K-2F-Y-5VDC', file:'p5.kicad_sch'
+09-12 04:25:56 replicate_layout.replicatelayout 184:Source sheet path up to the level:['', '5_RELAY1_G6K-2F-Y-5VDC']
+09-12 04:25:56 replicate_layout.replicatelayout 188:Footprints on the sheets:
+['K22', 'K8', 'K18', 'K11', 'K12', 'K7', 'K10', 'K17', 'K6', 'K1', 'K2', 'K14', 'K5', 'K13', 'K20', 'K24', 'K4', 'K16', 'K19', 'K21', 'K3', 'K15', 'K23', 'K9']
+09-12 04:25:56 replicate_layout.replicatelayout 191:Footprints raw sheet ids:
+['/8c33ca4f-c13d-4ca7-ad26-9536dc381de2/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/ab04f467-1313-4e29-90cb-86e71806ae32/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/d33814f1-dc52-4399-b2a5-f3c162fa8c65/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/295cb21d-f0be-4fba-9c7f-f32019f02e21/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/459281f3-f6dd-4fa6-a1d2-8c0ab7664c65/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/927f4376-7f15-44f9-bdd9-55828456fe69/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/f95696e4-f9f8-4064-b934-fa7eb2002196/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/eaadfd54-1d6b-4bcc-8456-71e7f7d0fd78/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/1c788b4c-2973-452b-9581-7f00d6f9037d/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/33fb9a9a-d414-4e7e-a731-e30cb69b7bf8/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/8995ea70-6096-4da2-878d-0b772614ceea/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/8d93c789-9146-4f7a-b7ed-9ec1b599548c/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/3407160d-3b0c-442f-9293-3cf3cdb705a3/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/4476f92b-d754-49de-8fd7-dc171a744ba8/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/710b1fd0-1ab6-4d07-8c9a-f206888dd477/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/a214d2d6-656d-4bc1-996f-5666451967cd/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/7d6c10dc-a2b5-44ad-be09-53dfb6af808a/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/9fdef1d2-2017-4387-aa47-d8ec3d4be3eb/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/6286e185-60ff-4f21-90f8-1f4102fb41de/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/ed60c8b9-250c-4196-b2e6-f428f058e61c/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/af7cabff-f130-4b0c-99df-bb6df886a84e/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/82d32ca6-02f6-4556-b0e7-88c3efde05e7/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/c4ef862d-683f-4c7e-92e0-a33c7efdb05a/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9', '/b7561d39-ea5d-4403-8f92-34e799298c5b/4485151c-cc8d-4b04-a3fc-da2f3c1f4bc9']
+09-12 04:25:56 replicate_layout.replicatelayout 207:All sheets to replicate:
+[['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY1_G6K-2F-Y-5VDC'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+09-12 04:25:56 replicate_layout.replicatelayout 212:All sheets to replicate sorted:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY1_G6K-2F-Y-5VDC'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+09-12 04:25:56 replicate_layout.replicatelayout 218:All sheets to replicate sorted and without source sheet:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+09-12 04:25:56 replicate_layout.action_replicate_layout 179:Replicating layout
+09-12 04:25:56 replicate_layout.replicatelayout 925:Starting replication of sheets: []
+on level: []
+with tracks=False, zone=False, text=True, containing=True, remove=False, locked=True
+09-12 04:25:56 root 261:updating GUI message: 'Preparing for replication'
+09-12 04:25:56 root 266:updating GUI with: 0
+09-12 04:25:56 replicate_layout.replicatelayout 491:Getting the list of source footprints
+09-12 04:25:56 root 266:updating GUI with: 0
+09-12 04:25:56 replicate_layout.replicatelayout 495:Getting the list of all the remaining footprints
+09-12 04:25:56 replicate_layout.replicatelayout 499:Getting nets local to source footprints
+09-12 04:25:56 replicate_layout.replicatelayout 503:Getting source bounding box
+09-12 04:25:56 root 266:updating GUI with: 37
+09-12 04:25:56 replicate_layout.replicatelayout 507:Getting source tracks
+09-12 04:25:56 replicate_layout.replicatelayout 511:Getting source zones
+09-12 04:25:56 root 266:updating GUI with: 62
+09-12 04:25:56 replicate_layout.replicatelayout 515:Getting source text items
+09-12 04:25:56 replicate_layout.replicatelayout 519:Getting source text items
+09-12 04:25:56 root 266:updating GUI with: 100
+09-12 04:25:56 root 261:updating GUI message: 'Replicating footprints'
+09-12 04:25:56 replicate_layout.replicatelayout 525:Replicating footprints
+09-12 04:25:56 root 261:updating GUI message: 'Replicating text'
+09-12 04:25:56 replicate_layout.replicatelayout 771:Replicating text
+09-12 04:25:56 replicate_layout.action_replicate_layout 201:Replication complete

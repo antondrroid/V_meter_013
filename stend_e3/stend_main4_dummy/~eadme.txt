@@ -1,0 +1,69 @@
+﻿main4_dummy
+============   important info =======================
+!!! don't make pcb from main4_dummy! !!!
+
+before create pcb for main5,
+1. create copy from main4_dummy to main5
+2. in main5 remove fujitsu relay  pages for signal and for power.
+3. annotate main5
+4.create main5 PCB
+!!!
+10 november 2021
+
+PCB project need correction on F.Silk – 2S1815 has properly wiring, but pin designators are interchanged. 
+And need to change   the  letter K for collector to letter C
+Must be changed 
+to my new DUAL  footprints -v  or -hor (check which is the better) 
+
+31 october 2021
+dummy is schematic for real board and for my own dummy (on the breadboard)
+
+so, it will have wiring table to improve ready PCB (main3)
+
+for issue next generation must create new PCB (main5) with wiring improvements.
+
+And need to check, will it possible direct relay control from shift registers directly, w/o transistors sc1815 and diode 1n4148? 
+
+
+10 of sep 2021
+created optocoupler in schematic 
+
+MCU sheet
+17sep2021
+add p7 with fujitsu relay a5w-k
+add resistors for display data lines 56 kom to +5v
+16sep2021
+start new version for breadboard dummy
+this will be for program testing 
+start to assembly from 17sep2021 at first without relays, register +leds only
+main3_stencil
+final version for stencil
+not for far development.
+in this version removed dip footprints for sthensils
+
+main3
+no edit more - will made main4 for next development
+14 sep finished
+Place top and bottom and breadboard footprints
+and was sent to manufacturing
+try 2 replicate chips letters and remove tracks remains
+remove letter overlaps
+
+in main2
+11/09/21
+bus on PCB back annotated
+routed all  nets
+
+
+10sep2021
+
+need to insert photocouplers fo MCU in and out.
+09/sep/2021
+ 
+1.made replication layout.
+2.routed 1 register. routed MCU power control. and mcu and register connections
+in main1 
+was made  pcp update
+
+
+Change symbol X? from 'my_Library:B5B-XH-A' to 'my_Library:B5B-XH-A': OK

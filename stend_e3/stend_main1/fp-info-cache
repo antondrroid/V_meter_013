@@ -1,0 +1,169 @@
+39139749955040
+my_Library_ftprint
+DIP-16_W7.62mm_Socket_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+16
+16
+my_Library_ftprint
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+my_Library_ftprint
+JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
+0
+2
+2
+my_Library_ftprint
+JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical
+JST EH series connector, B5B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
+0
+5
+5
+my_Library_ftprint
+JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical
+JST EH series connector, B10B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
+0
+10
+10
+my_Library_ftprint
+LED_0805_2012Metric
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+my_Library_ftprint
+LED_0805_2012Metric_Castellated
+LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+my_Library_ftprint
+LED_0805_2012Metric_My
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+my_Library_ftprint
+MCU_Arduino_Nano_328_board
+Through hole straight pin header, 1x15, 2.54mm pitch, single row
+Through hole pin header THT 1x15 2.54mm single row
+0
+34
+30
+my_Library_ftprint
+Nano_328pu
+Through hole straight pin header, 1x15, 2.54mm pitch, single row
+Through hole pin header THT 1x15 2.54mm single row
+0
+34
+30
+my_Library_ftprint
+PinHeader_1x01_P2.54mm_Vertical
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+my_Library_ftprint
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+my_Library_ftprint
+PinHeader_1x15_P2.54mm_Vertical
+Through hole straight pin header, 1x15, 2.54mm pitch, single row
+Through hole pin header THT 1x15 2.54mm single row
+0
+15
+15
+my_Library_ftprint
+PinSocket_1x15_P2.54mm_Vertical
+Through hole straight socket strip, 1x15, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x15 2.54mm single row
+0
+15
+15
+my_Library_ftprint
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+my_Library_ftprint
+Relay_DPDT_Fujitsu_A5WK
+Omron relay G6H-2, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf
+Omron relay G6H-2
+0
+10
+10
+my_Library_ftprint
+Relay_DPDT_Omron_G6H-2
+Omron relay G6H-2, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf
+Omron relay G6H-2
+0
+10
+10
+my_Library_ftprint
+Relay_DPDT_Omron_G6K-2F-Y
+Omron G6K-2F-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+Omron G6K-2F-Y relay
+0
+8
+8
+my_Library_ftprint
+SOT-23_MY_C_E_Silk
+SOT-23, Standard
+SOT-23
+0
+3
+3
+my_Library_ftprint
+SW_PUSH_6mm_H4.3mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm
+tact sw push 6mm
+0
+4
+2
+my_Library_ftprint
+SW_Push_2P1T_6x6mm
+tactile push button, 6x6mm e.g.kls7
+tact sw push 6mm smd
+0
+4
+2
+my_Library_ftprint
+board_fp_190x310
+
+
+0
+0
+0
+my_Library_ftprint
+layout_chips_1
+
+
+0
+0
+0
+my_Library_ftprint
+mounting hole 4 mm
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+0
+0

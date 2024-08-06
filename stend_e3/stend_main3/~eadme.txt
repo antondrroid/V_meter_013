@@ -1,0 +1,31 @@
+main3_stencil
+final version for stencil
+not for far development.
+in this version removed dip footprints for sthensils
+
+main3
+no edit more - will made main4 for next development
+14 sep finished
+Place top and bottom and breadboard footprints
+and was sent to manufacturing
+try 2 replicate chips letters and remove tracks remains
+remove letter overlaps
+
+in main2
+11/09/21
+bus on PCB back annotated
+routed all  nets
+
+
+10sep2021
+
+need to insert photocouplers fo MCU in and out.
+09/sep/2021
+ 
+1.made replication layout.
+2.routed 1 register. routed MCU power control. and mcu and register connections
+in main1 
+was made  pcp update
+
+
+Change symbol X? from 'my_Library:B5B-XH-A' to 'my_Library:B5B-XH-A': OK

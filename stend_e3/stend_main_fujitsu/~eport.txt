@@ -1,0 +1,1 @@
+Change symbol X? from 'my_Library:B5B-XH-A' to 'my_Library:B5B-XH-A': OK

@@ -1,0 +1,72 @@
+function viOpenDefaultRM(rm: PInteger)
+                             : Integer; stdcall; external 'visa32.dll';
+function viFindRsrc(RM: Integer; Res: PChar; PfindList, PnumInstrs:
+   PInteger; Resource: PChar): Integer; stdcall; external 'visa32.dll';
+function viFindNext(findList: Integer; Resource: PChar)
+                             : Integer; stdcall; external 'visa32.dll';
+function viOpen(RM: Integer; ResourceName: pChar; AccessMode,TimeOut:
+       Integer; vi: PInteger): Integer; stdcall; external 'visa32.dll';
+function viClose(VI: Integer): Integer; stdcall; external 'visa32.dll';
+function viRead(VI: Integer; Buffer: pChar; Count: Integer;
+          RetCount: Pinteger): Integer; stdcall; external 'visa32.dll';
+function viWrite(VI: Integer; Buffer: pChar; Count: Integer;
+          RetCount: Pinteger): Integer; stdcall; external 'visa32.dll';
+var
+  Form1: TForm1;
+
+implementation
+
+var
+  buf: array[0..127]of char;        // Буфер R/W
+  RM: integer;
+  numInstrs: Integer;
+  findList: Integer;
+  V7_78: integer;                   // VI
+
+{$R *.dfm}
+
+//--------------------------------------------------------------------//
+//---------------- Инициализация интерфейса USB В7-78/1 --------------//
+//--------------------------------------------------------------------//
+procedure TForm1.Button1Click(Sender: TObject);
+ var Resource: array[0..127]of char;
+     Status: integer;
+     RetCount: integer;
+     SerN_: PChar;
+begin
+// Открытие сессии NI VISA
+  viOpenDefaultRM(@RM);
+// Поиск прибора по серийному номеру
+  SerN_:=PChar('?*'+LabeledEdit1.Text+'?*');
+  viFindRsrc(RM, SerN_, @findList, @numInstrs, Resource);
+
+//  viFindNext (findList, buf);  // Если приборов несколько
+
+  Status:= viOpen(RM, Resource, 0, 0, @V7_78);
+  Sleep(100);
+// Перевод В7-78/1 в режим ДУ
+  buf:='SYSTem:REMote';
+  Status:= viWrite(V7_78, buf, 13, @RetCount);
+// Установка В7-78/1 в начальное состояние:
+  buf:='*RST; *CLS; DISPlay ON; DISPlay:TEXT:CLEar';
+  Status:= viWrite(V7_78, buf, 42, @RetCount);
+end;
+
+//--------------------------------------------------------------------//
+//--------------------------- Измерение В7-78 ------------------------//
+//--------------------------------------------------------------------//
+procedure TForm1.Button3Click(Sender: TObject);
+ var s1: string;
+     Status: integer;
+     RetCount: integer;
+begin
+ buf:='READ?';
+// Запись в В7-78/1 команды
+ Status:= viWrite(V7_78, buf, 5, @RetCount);
+// Считывание с В7-78/1
+ Status:= viRead(V7_78, buf, 128, @RetCount);
+ s1:=buf;
+ if pos(Char($0A),s1)<>0   // В принципе, можно и без этого, по USB признак конца строки не передаётся почему-то
+   then s1:=copy(s1,1,pos(Char($0A),s1)-1);
+ Edit2.Text:=s1;
+end;

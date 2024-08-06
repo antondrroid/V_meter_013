@@ -1,0 +1,201 @@
+09-09 06:59:01 replicate_layout.action_replicate_layout 305:Plugin executed on: 'win32'
+09-09 06:59:01 replicate_layout.action_replicate_layout 306:Plugin executed with python version: '3.9.6 (default, Aug 27 2021, 19:25:41) [MSC v.1929 64 bit (AMD64)]'
+09-09 06:59:01 replicate_layout.action_replicate_layout 307:KiCad build version: (5.99.0-12218-g749d2d5987)
+09-09 06:59:01 replicate_layout.action_replicate_layout 308:Replicate layout plugin version: 76 started
+09-09 06:59:01 replicate_layout.action_replicate_layout 339:Preparing replicator with VT1 as a reference
+09-09 06:59:01 replicate_layout.replicatelayout 141:getting a list of all footprints on board
+09-09 06:59:01 replicate_layout.replicatelayout 162:total modules:298
+09-09 06:59:01 replicate_layout.action_replicate_layout 366:source anchor footprint is 'VT1'
+Located on:['', '5_RELAY1_G6K-2F-Y-5VDC']
+With filenames:['stend_main.kicad_sch', 'p5.kicad_sch']
+With sheet_id:['', '5_RELAY1_G6K-2F-Y-5VDC']
+09-09 06:59:01 replicate_layout.action_replicate_layout 371:Corresponding footprints are 
+[('VT10', ['', '5_RELAY10_G6K-2F-Y-5VDC2']), ('VT6', ['', '5_RELAY6_G6K-2F-Y-5VDC3']), ('VT16', ['', '5_RELAY16_G6K-2F-Y-5VDC6']), ('VT20', ['', '5_RELAY20_G6K-2F-Y-5VDC4']), ('VT7', ['', '5_RELAY7_G6K-2F-Y-5VDC4']), ('VT18', ['', '5_RELAY18_G6K-2F-Y-5VDC3']), ('VT4', ['', '5_RELAY4_G6K-2F-Y-5VDC2']), ('VT8', ['', '5_RELAY8_G6K-2F-Y-5VDC5']), ('VT9', ['', '5_RELAY9_G6K-2F-Y-5VDC1']), ('VT24', ['', '5_RELAY24_G6K-2F-Y-5VDC7']), ('VT14', ['', '5_RELAY14_G6K-2F-Y-5VDC4']), ('VT11', ['', '5_RELAY11_G6K-2F-Y-5VDC2']), ('VT15', ['', '5_RELAY15_G6K-2F-Y-5VDC5']), ('VT2', ['', '5_RELAY2_G6K-2F-Y-5VDC1']), ('VT19', ['', '5_RELAY19_G6K-2F-Y-5VDC3']), ('VT17', ['', '5_RELAY17_G6K-2F-Y-5VDC2']), ('VT22', ['', '5_RELAY22_G6K-2F-Y-5VDC5']), ('VT21', ['', '5_RELAY21_G6K-2F-Y-5VDC4']), ('VT5', ['', '5_RELAY5_G6K-2F-Y-5VDC2']), ('VT3', ['', '5_RELAY3_G6K-2F-Y-5VDC1']), ('VT13', ['', '5_RELAY13_G6K-2F-Y-5VDC3']), ('VT23', ['', '5_RELAY23_G6K-2F-Y-5VDC6']), ('VT1', ['', '5_RELAY1_G6K-2F-Y-5VDC']), ('VT12', ['', '5_RELAY12_G6K-2F-Y-5VDC3'])]
+09-09 06:59:01 replicate_layout.action_replicate_layout 384:Showing dialog
+09-09 06:59:01 replicate_layout.action_replicate_layout 388:Pcbnew position: wx.Point(-2, 1)
+09-09 06:59:01 replicate_layout.action_replicate_layout 394:Display 0: wx.Rect(0, 0, 1920, 1080)
+09-09 06:59:01 replicate_layout.action_replicate_layout 398:Toolbar position: wx.Point(1249, 115)
+09-09 06:59:01 replicate_layout.action_replicate_layout 405:Dialog position: wx.Point(936, 115)
+09-09 06:59:10 replicate_layout.replicatelayout 177:construcing a list of sheets suitable for replication on level:'5_RELAY1_G6K-2F-Y-5VDC', file:'p5.kicad_sch'
+09-09 06:59:10 replicate_layout.replicatelayout 184:Source sheet path up to the level:['', '5_RELAY1_G6K-2F-Y-5VDC']
+09-09 06:59:10 replicate_layout.replicatelayout 188:Footprints on the sheets:
+['VT10', 'VT6', 'VT16', 'VT20', 'VT7', 'VT18', 'VT4', 'VT8', 'VT9', 'VT24', 'VT14', 'VT11', 'VT15', 'VT2', 'VT19', 'VT17', 'VT22', 'VT21', 'VT5', 'VT3', 'VT13', 'VT23', 'VT1', 'VT12']
+09-09 06:59:10 replicate_layout.replicatelayout 191:Footprints raw sheet ids:
+['/f95696e4-f9f8-4064-b934-fa7eb2002196/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/1c788b4c-2973-452b-9581-7f00d6f9037d/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/9fdef1d2-2017-4387-aa47-d8ec3d4be3eb/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/710b1fd0-1ab6-4d07-8c9a-f206888dd477/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/927f4376-7f15-44f9-bdd9-55828456fe69/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/d33814f1-dc52-4399-b2a5-f3c162fa8c65/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/7d6c10dc-a2b5-44ad-be09-53dfb6af808a/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/ab04f467-1313-4e29-90cb-86e71806ae32/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/b7561d39-ea5d-4403-8f92-34e799298c5b/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/a214d2d6-656d-4bc1-996f-5666451967cd/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/8d93c789-9146-4f7a-b7ed-9ec1b599548c/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/295cb21d-f0be-4fba-9c7f-f32019f02e21/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/82d32ca6-02f6-4556-b0e7-88c3efde05e7/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/8995ea70-6096-4da2-878d-0b772614ceea/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/6286e185-60ff-4f21-90f8-1f4102fb41de/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/eaadfd54-1d6b-4bcc-8456-71e7f7d0fd78/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/8c33ca4f-c13d-4ca7-ad26-9536dc381de2/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/ed60c8b9-250c-4196-b2e6-f428f058e61c/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/3407160d-3b0c-442f-9293-3cf3cdb705a3/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/af7cabff-f130-4b0c-99df-bb6df886a84e/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/4476f92b-d754-49de-8fd7-dc171a744ba8/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/c4ef862d-683f-4c7e-92e0-a33c7efdb05a/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/33fb9a9a-d414-4e7e-a731-e30cb69b7bf8/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/459281f3-f6dd-4fa6-a1d2-8c0ab7664c65/93761dff-d136-477a-a3cd-cb2e97a8e9a6']
+09-09 06:59:10 replicate_layout.replicatelayout 207:All sheets to replicate:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY1_G6K-2F-Y-5VDC'], ['', '5_RELAY12_G6K-2F-Y-5VDC3']]
+09-09 06:59:10 replicate_layout.replicatelayout 212:All sheets to replicate sorted:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY1_G6K-2F-Y-5VDC'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+09-09 06:59:10 replicate_layout.replicatelayout 218:All sheets to replicate sorted and without source sheet:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+09-09 06:59:27 replicate_layout.replicatelayout 177:construcing a list of sheets suitable for replication on level:'5_RELAY1_G6K-2F-Y-5VDC', file:'p5.kicad_sch'
+09-09 06:59:27 replicate_layout.replicatelayout 184:Source sheet path up to the level:['', '5_RELAY1_G6K-2F-Y-5VDC']
+09-09 06:59:27 replicate_layout.replicatelayout 188:Footprints on the sheets:
+['VT10', 'VT6', 'VT16', 'VT20', 'VT7', 'VT18', 'VT4', 'VT8', 'VT9', 'VT24', 'VT14', 'VT11', 'VT15', 'VT2', 'VT19', 'VT17', 'VT22', 'VT21', 'VT5', 'VT3', 'VT13', 'VT23', 'VT1', 'VT12']
+09-09 06:59:27 replicate_layout.replicatelayout 191:Footprints raw sheet ids:
+['/f95696e4-f9f8-4064-b934-fa7eb2002196/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/1c788b4c-2973-452b-9581-7f00d6f9037d/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/9fdef1d2-2017-4387-aa47-d8ec3d4be3eb/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/710b1fd0-1ab6-4d07-8c9a-f206888dd477/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/927f4376-7f15-44f9-bdd9-55828456fe69/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/d33814f1-dc52-4399-b2a5-f3c162fa8c65/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/7d6c10dc-a2b5-44ad-be09-53dfb6af808a/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/ab04f467-1313-4e29-90cb-86e71806ae32/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/b7561d39-ea5d-4403-8f92-34e799298c5b/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/a214d2d6-656d-4bc1-996f-5666451967cd/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/8d93c789-9146-4f7a-b7ed-9ec1b599548c/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/295cb21d-f0be-4fba-9c7f-f32019f02e21/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/82d32ca6-02f6-4556-b0e7-88c3efde05e7/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/8995ea70-6096-4da2-878d-0b772614ceea/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/6286e185-60ff-4f21-90f8-1f4102fb41de/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/eaadfd54-1d6b-4bcc-8456-71e7f7d0fd78/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/8c33ca4f-c13d-4ca7-ad26-9536dc381de2/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/ed60c8b9-250c-4196-b2e6-f428f058e61c/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/3407160d-3b0c-442f-9293-3cf3cdb705a3/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/af7cabff-f130-4b0c-99df-bb6df886a84e/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/4476f92b-d754-49de-8fd7-dc171a744ba8/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/c4ef862d-683f-4c7e-92e0-a33c7efdb05a/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/33fb9a9a-d414-4e7e-a731-e30cb69b7bf8/93761dff-d136-477a-a3cd-cb2e97a8e9a6', '/459281f3-f6dd-4fa6-a1d2-8c0ab7664c65/93761dff-d136-477a-a3cd-cb2e97a8e9a6']
+09-09 06:59:27 replicate_layout.replicatelayout 207:All sheets to replicate:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY1_G6K-2F-Y-5VDC'], ['', '5_RELAY12_G6K-2F-Y-5VDC3']]
+09-09 06:59:27 replicate_layout.replicatelayout 212:All sheets to replicate sorted:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY1_G6K-2F-Y-5VDC'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+09-09 06:59:27 replicate_layout.replicatelayout 218:All sheets to replicate sorted and without source sheet:
+[['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+09-09 06:59:27 replicate_layout.action_replicate_layout 179:Replicating layout
+09-09 06:59:27 replicate_layout.replicatelayout 925:Starting replication of sheets: [['', '5_RELAY10_G6K-2F-Y-5VDC2'], ['', '5_RELAY11_G6K-2F-Y-5VDC2'], ['', '5_RELAY12_G6K-2F-Y-5VDC3'], ['', '5_RELAY13_G6K-2F-Y-5VDC3'], ['', '5_RELAY14_G6K-2F-Y-5VDC4'], ['', '5_RELAY15_G6K-2F-Y-5VDC5'], ['', '5_RELAY16_G6K-2F-Y-5VDC6'], ['', '5_RELAY17_G6K-2F-Y-5VDC2'], ['', '5_RELAY18_G6K-2F-Y-5VDC3'], ['', '5_RELAY19_G6K-2F-Y-5VDC3'], ['', '5_RELAY20_G6K-2F-Y-5VDC4'], ['', '5_RELAY21_G6K-2F-Y-5VDC4'], ['', '5_RELAY22_G6K-2F-Y-5VDC5'], ['', '5_RELAY23_G6K-2F-Y-5VDC6'], ['', '5_RELAY24_G6K-2F-Y-5VDC7'], ['', '5_RELAY2_G6K-2F-Y-5VDC1'], ['', '5_RELAY3_G6K-2F-Y-5VDC1'], ['', '5_RELAY4_G6K-2F-Y-5VDC2'], ['', '5_RELAY5_G6K-2F-Y-5VDC2'], ['', '5_RELAY6_G6K-2F-Y-5VDC3'], ['', '5_RELAY7_G6K-2F-Y-5VDC4'], ['', '5_RELAY8_G6K-2F-Y-5VDC5'], ['', '5_RELAY9_G6K-2F-Y-5VDC1']]
+on level: ['', '5_RELAY1_G6K-2F-Y-5VDC']
+with tracks=True, zone=True, text=True, containing=True, remove=False, locked=False
+09-09 06:59:27 root 261:updating GUI message: 'Preparing for replication'
+09-09 06:59:27 root 266:updating GUI with: 0
+09-09 06:59:27 replicate_layout.replicatelayout 491:Getting the list of source footprints
+09-09 06:59:27 replicate_layout.replicatelayout 495:Getting the list of all the remaining footprints
+09-09 06:59:27 replicate_layout.replicatelayout 499:Getting nets local to source footprints
+09-09 06:59:27 replicate_layout.replicatelayout 503:Getting source bounding box
+09-09 06:59:27 root 266:updating GUI with: 37
+09-09 06:59:27 replicate_layout.replicatelayout 507:Getting source tracks
+09-09 06:59:27 replicate_layout.replicatelayout 511:Getting source zones
+09-09 06:59:27 replicate_layout.replicatelayout 515:Getting source text items
+09-09 06:59:27 replicate_layout.replicatelayout 519:Getting source text items
+09-09 06:59:27 root 261:updating GUI message: 'Replicating footprints'
+09-09 06:59:27 replicate_layout.replicatelayout 525:Replicating footprints
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY10_G6K-2F-Y-5VDC2']
+09-09 06:59:27 root 266:updating GUI with: 2
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY11_G6K-2F-Y-5VDC2']
+09-09 06:59:27 root 266:updating GUI with: 8
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY12_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY13_G6K-2F-Y-5VDC3']
+09-09 06:59:27 root 266:updating GUI with: 15
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY14_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY15_G6K-2F-Y-5VDC5']
+09-09 06:59:27 root 266:updating GUI with: 26
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY16_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY17_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY18_G6K-2F-Y-5VDC3']
+09-09 06:59:27 root 266:updating GUI with: 36
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY19_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY20_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY21_G6K-2F-Y-5VDC4']
+09-09 06:59:27 root 266:updating GUI with: 49
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY22_G6K-2F-Y-5VDC5']
+09-09 06:59:27 root 266:updating GUI with: 56
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY23_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY24_G6K-2F-Y-5VDC7']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY2_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY3_G6K-2F-Y-5VDC1']
+09-09 06:59:27 root 266:updating GUI with: 70
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY4_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY5_G6K-2F-Y-5VDC2']
+09-09 06:59:27 root 266:updating GUI with: 82
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY6_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY7_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY8_G6K-2F-Y-5VDC5']
+09-09 06:59:27 root 266:updating GUI with: 95
+09-09 06:59:27 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['', '5_RELAY9_G6K-2F-Y-5VDC1']
+09-09 06:59:27 root 261:updating GUI message: 'Replicating tracks'
+09-09 06:59:27 replicate_layout.replicatelayout 655:Replicating tracks
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY10_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY11_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY12_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY13_G6K-2F-Y-5VDC3']
+09-09 06:59:27 root 266:updating GUI with: 13
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY14_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY15_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY16_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY17_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY18_G6K-2F-Y-5VDC3']
+09-09 06:59:27 root 266:updating GUI with: 34
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY19_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY20_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY21_G6K-2F-Y-5VDC4']
+09-09 06:59:27 root 266:updating GUI with: 49
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY22_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY23_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY24_G6K-2F-Y-5VDC7']
+09-09 06:59:27 root 266:updating GUI with: 63
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY2_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY3_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY4_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY5_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY6_G6K-2F-Y-5VDC3']
+09-09 06:59:27 root 266:updating GUI with: 85
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY7_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY8_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 661:Replicating tracks on sheet ['', '5_RELAY9_G6K-2F-Y-5VDC1']
+09-09 06:59:27 root 261:updating GUI message: 'Replicating zones'
+09-09 06:59:27 replicate_layout.replicatelayout 706:Replicating zones
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY10_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY11_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY12_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY13_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY14_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY15_G6K-2F-Y-5VDC5']
+09-09 06:59:27 root 266:updating GUI with: 26
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY16_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY17_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY18_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY19_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY20_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY21_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY22_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY23_G6K-2F-Y-5VDC6']
+09-09 06:59:27 root 266:updating GUI with: 60
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY24_G6K-2F-Y-5VDC7']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY2_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY3_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY4_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY5_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY6_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY7_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY8_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 713:Replicating zones on sheet ['', '5_RELAY9_G6K-2F-Y-5VDC1']
+09-09 06:59:27 root 261:updating GUI message: 'Replicating text'
+09-09 06:59:27 replicate_layout.replicatelayout 771:Replicating text
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY10_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY11_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY12_G6K-2F-Y-5VDC3']
+09-09 06:59:27 root 266:updating GUI with: 13
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY13_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY14_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY15_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY16_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY17_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY18_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY19_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY20_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY21_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY22_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY23_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY24_G6K-2F-Y-5VDC7']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY2_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY3_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY4_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY5_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY6_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY7_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY8_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 778:Replicating text on sheet ['', '5_RELAY9_G6K-2F-Y-5VDC1']
+09-09 06:59:27 root 261:updating GUI message: 'Replicating drawings'
+09-09 06:59:27 replicate_layout.replicatelayout 802:Replicating drawings
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY10_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY11_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY12_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY13_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY14_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY15_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY16_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY17_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY18_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY19_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY20_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY21_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY22_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY23_G6K-2F-Y-5VDC6']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY24_G6K-2F-Y-5VDC7']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY2_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY3_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY4_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY5_G6K-2F-Y-5VDC2']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY6_G6K-2F-Y-5VDC3']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY7_G6K-2F-Y-5VDC4']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY8_G6K-2F-Y-5VDC5']
+09-09 06:59:27 replicate_layout.replicatelayout 808:Replicating drawings on sheet ['', '5_RELAY9_G6K-2F-Y-5VDC1']
+09-09 06:59:27 replicate_layout.action_replicate_layout 201:Replication complete

@@ -1,0 +1,591 @@
+Info: Processing symbol 'CP1:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP2:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP3:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP4:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP5:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP6:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP7:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP8:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP9:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP10:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP11:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP12:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP13:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP14:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP15:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP16:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP17:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP18:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP19:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP20:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP21:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP22:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP23:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP24:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP25:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP26:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP27:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP28:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP29:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP30:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP31:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP32:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP33:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP34:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP35:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP36:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP37:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP38:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP39:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP40:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP41:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP42:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP43:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP44:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP45:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP46:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP47:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP48:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP49:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP50:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP51:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP52:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP53:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP54:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP55:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP56:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP57:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP58:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP59:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP60:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP61:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP62:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP63:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP64:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP65:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP66:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP67:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP68:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP69:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP70:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP71:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP72:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP73:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP74:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP75:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP76:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP77:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP78:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP79:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP80:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP81:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP82:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP83:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP84:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP85:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP86:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP87:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP88:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP89:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP90:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP91:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP92:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP93:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP94:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP95:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP96:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP97:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP98:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP99:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP100:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP101:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'CP102:my_Library_ftprint:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'DD1:my_Library_ftprint:Nano_328pu'.
+Info: Processing symbol 'R40:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R41:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R42:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R43:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R44:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R45:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R46:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R47:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R48:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R49:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R50:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R51:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R52:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R53:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R54:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R55:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'DD2:my_Library_ftprint:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'DD3:my_Library_ftprint:DIP-16_W7.62mm_Socket_LongPads'.
+Info: Processing symbol 'R56:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'DD4:my_Library_ftprint:DIP-16_W7.62mm_Socket_LongPads'.
+Info: Processing symbol 'R57:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R58:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'DD5:my_Library_ftprint:DIP-16_W7.62mm_Socket_LongPads'.
+Info: Processing symbol 'R59:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R60:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R61:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R62:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'K1:my_Library_ftprint:Relay_DPDT_Fujitsu_A5WK'.
+Info: Processing symbol 'R63:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R64:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R65:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R66:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R67:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R68:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R69:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R70:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R71:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R72:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'K3:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'R73:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R74:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R75:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R76:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'K5:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'R77:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R78:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'K6:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'R79:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R80:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R81:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R82:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'K7:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'R83:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'S1:my_Library_ftprint:SW_Push_2P1T_6x6mm'.
+Info: Processing symbol 'S2:my_Library_ftprint:SW_Push_2P1T_6x6mm'.
+Info: Processing symbol 'VD1:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'K8:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD2:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD3:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD4:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD5:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K9:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD6:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD7:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD8:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD9:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'K10:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD10:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD11:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD12:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD14:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K11:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD15:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD16:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD17:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD18:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K12:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD19:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD20:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD21:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD22:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K13:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD23:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD24:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD25:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD26:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K14:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD27:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD28:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD29:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD30:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K15:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD31:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD32:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD33:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD34:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K16:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD35:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD36:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD37:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD38:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K17:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD39:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD40:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD41:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD42:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K18:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD43:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD44:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD45:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD46:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K19:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD47:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD48:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD49:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'VD50:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'K20:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD51:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'R25:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'VD52:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD53:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'K21:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VD54:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VD55:my_Library_ftprint:D_SOD-123'.
+Info: Processing symbol 'VT1:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT2:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'K22:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VT3:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT4:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT5:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT6:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'K23:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VT7:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT8:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT9:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT10:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'K24:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VT11:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT12:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT13:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT14:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'K25:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VT15:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT16:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT17:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT18:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'K26:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VT19:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT20:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT21:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT22:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'K27:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'VT23:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT24:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'VT25:my_Library_ftprint:SOT-23_MY_C_E_Silk'.
+Info: Processing symbol 'X1:my_Library_ftprint:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
+Info: Processing symbol 'K28:my_Library_ftprint:Relay_DPDT_Omron_G6K-2F-Y'.
+Info: Processing symbol 'X2:my_Library_ftprint:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
+Info: Processing symbol 'X3:my_Library_ftprint:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical'.
+Info: Processing symbol 'X4:my_Library_ftprint:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical'.
+Info: Processing symbol 'X5:my_Library_ftprint:JST_EH_B10B-EH-A_1x10_P2.50mm_Vertical'.
+Info: Processing symbol 'MH4_1:my_Library_ftprint:mounting hole 4 mm'.
+Info: Processing symbol 'MH4_2:my_Library_ftprint:mounting hole 4 mm'.
+Info: Processing symbol 'MH4_3:my_Library_ftprint:mounting hole 4 mm'.
+Info: Processing symbol 'MH4_4:my_Library_ftprint:mounting hole 4 mm'.
+Info: Processing symbol 'Q3:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'R1:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R2:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R3:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R4:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R5:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R6:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R7:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R8:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R9:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'X6:my_Library_ftprint:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical'.
+Info: Processing symbol 'R10:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R11:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R12:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R13:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R14:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R15:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R16:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R17:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R18:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R19:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R20:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R21:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R22:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R23:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R24:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'VD13:my_Library_ftprint:LED_0805_2012Metric'.
+Info: Processing symbol 'R26:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R27:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R28:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R29:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R30:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R31:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R32:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R33:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R34:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R35:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R36:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R37:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R38:my_Library_ftprint:R_0805_2012Metric'.
+Info: Processing symbol 'R39:my_Library_ftprint:R_0805_2012Metric'.
+Connected DD1 pin 2 to unconnected-(DD1-Pad2).
+Connected DD1 pin 3 to unconnected-(DD1-Pad3).
+Connected DD1 pin 4 to unconnected-(DD1-Pad4).
+Connected DD1 pin 5 to unconnected-(DD1-Pad5).
+Connected DD1 pin 6 to unconnected-(DD1-Pad6).
+Connected DD1 pin 7 to unconnected-(DD1-Pad7).
+Connected DD1 pin 10 to unconnected-(DD1-Pad10).
+Connected DD1 pin 11 to unconnected-(DD1-Pad11).
+Connected DD1 pin 13 to unconnected-(DD1-Pad13).
+Connected DD1 pin 15 to unconnected-(DD1-Pad15).
+Connected DD1 pin 16 to unconnected-(DD1-Pad16).
+Connected DD1 pin 17 to unconnected-(DD1-Pad17).
+Connected DD1 pin 18 to unconnected-(DD1-Pad18).
+Connected DD1 pin 24 to unconnected-(DD1-Pad24).
+Connected DD1 pin 26 to unconnected-(DD1-Pad26).
+Connected DD1 pin 30 to /2_MCU/MISO.
+Connected DD3 pin 10 to unconnected-(DD3-Pad10).
+Connected DD4 pin 10 to unconnected-(DD4-Pad10).
+Connected DD4 pin 13 to unconnected-(DD4-Pad13).
+Connected DD5 pin 9 to unconnected-(DD5-Pad9).
+Connected DD5 pin 10 to unconnected-(DD5-Pad10).
+Connected DD5 pin 12 to unconnected-(DD5-Pad12).
+Connected DD5 pin 13 to unconnected-(DD5-Pad13).
+Connected K1 pin 1 to unconnected-(K1-Pad1).
+Connected K1 pin 2 to unconnected-(K1-Pad2).
+Connected K1 pin 3 to /7_FUJITSU/INSTR+.
+Connected K1 pin 4 to /7_FUJITSU/CNTRL_PNT.
+Connected K1 pin 5 to unconnected-(K1-Pad5).
+Connected K1 pin 6 to unconnected-(K1-Pad6).
+Connected K1 pin 7 to unconnected-(K1-Pad7).
+Connected K1 pin 8 to unconnected-(K1-Pad8).
+Connected K1 pin 9 to unconnected-(K1-Pad9).
+Connected K1 pin 10 to unconnected-(K1-Pad10).
+Connected K3 pin 2 to unconnected-(K3-Pad2).
+Connected K3 pin 5 to unconnected-(K3-Pad5).
+Connected K3 pin 6 to unconnected-(K3-Pad6).
+Connected K3 pin 7 to unconnected-(K3-Pad7).
+Connected K5 pin 2 to unconnected-(K5-Pad2).
+Connected K5 pin 7 to unconnected-(K5-Pad7).
+Connected K6 pin 2 to unconnected-(K6-Pad2).
+Connected K6 pin 5 to unconnected-(K6-Pad5).
+Connected K6 pin 6 to unconnected-(K6-Pad6).
+Connected K6 pin 7 to unconnected-(K6-Pad7).
+Connected K7 pin 2 to unconnected-(K7-Pad2).
+Connected K7 pin 5 to unconnected-(K7-Pad5).
+Connected K7 pin 6 to unconnected-(K7-Pad6).
+Connected K7 pin 7 to unconnected-(K7-Pad7).
+Connected K8 pin 2 to unconnected-(K8-Pad2).
+Connected K8 pin 5 to unconnected-(K8-Pad5).
+Connected K8 pin 6 to unconnected-(K8-Pad6).
+Connected K8 pin 7 to unconnected-(K8-Pad7).
+Connected K9 pin 2 to unconnected-(K9-Pad2).
+Connected K9 pin 5 to unconnected-(K9-Pad5).
+Connected K9 pin 6 to unconnected-(K9-Pad6).
+Connected K9 pin 7 to unconnected-(K9-Pad7).
+Connected K10 pin 2 to unconnected-(K10-Pad2).
+Connected K10 pin 5 to unconnected-(K10-Pad5).
+Connected K10 pin 6 to unconnected-(K10-Pad6).
+Connected K10 pin 7 to unconnected-(K10-Pad7).
+Connected K11 pin 2 to unconnected-(K11-Pad2).
+Connected K11 pin 5 to unconnected-(K11-Pad5).
+Connected K11 pin 6 to unconnected-(K11-Pad6).
+Connected K11 pin 7 to unconnected-(K11-Pad7).
+Connected K12 pin 2 to unconnected-(K12-Pad2).
+Connected K12 pin 5 to unconnected-(K12-Pad5).
+Connected K12 pin 6 to unconnected-(K12-Pad6).
+Connected K12 pin 7 to unconnected-(K12-Pad7).
+Connected K13 pin 2 to unconnected-(K13-Pad2).
+Connected K13 pin 5 to unconnected-(K13-Pad5).
+Connected K13 pin 6 to unconnected-(K13-Pad6).
+Connected K13 pin 7 to unconnected-(K13-Pad7).
+Connected K14 pin 2 to unconnected-(K14-Pad2).
+Connected K14 pin 5 to unconnected-(K14-Pad5).
+Connected K14 pin 6 to unconnected-(K14-Pad6).
+Connected K14 pin 7 to unconnected-(K14-Pad7).
+Connected K15 pin 2 to unconnected-(K15-Pad2).
+Connected K15 pin 5 to unconnected-(K15-Pad5).
+Connected K15 pin 6 to unconnected-(K15-Pad6).
+Connected K15 pin 7 to unconnected-(K15-Pad7).
+Connected K16 pin 2 to unconnected-(K16-Pad2).
+Connected K16 pin 5 to unconnected-(K16-Pad5).
+Connected K16 pin 6 to unconnected-(K16-Pad6).
+Connected K16 pin 7 to unconnected-(K16-Pad7).
+Connected K17 pin 2 to unconnected-(K17-Pad2).
+Connected K17 pin 5 to unconnected-(K17-Pad5).
+Connected K17 pin 6 to unconnected-(K17-Pad6).
+Connected K17 pin 7 to unconnected-(K17-Pad7).
+Connected K18 pin 2 to unconnected-(K18-Pad2).
+Connected K18 pin 5 to unconnected-(K18-Pad5).
+Connected K18 pin 6 to unconnected-(K18-Pad6).
+Connected K18 pin 7 to unconnected-(K18-Pad7).
+Connected K19 pin 2 to unconnected-(K19-Pad2).
+Connected K19 pin 5 to unconnected-(K19-Pad5).
+Connected K19 pin 6 to unconnected-(K19-Pad6).
+Connected K19 pin 7 to unconnected-(K19-Pad7).
+Connected K20 pin 2 to unconnected-(K20-Pad2).
+Connected K20 pin 6 to unconnected-(K20-Pad6).
+Connected K20 pin 7 to unconnected-(K20-Pad7).
+Connected K21 pin 2 to unconnected-(K21-Pad2).
+Connected K21 pin 5 to unconnected-(K21-Pad5).
+Connected K21 pin 6 to unconnected-(K21-Pad6).
+Connected K21 pin 7 to unconnected-(K21-Pad7).
+Connected K22 pin 2 to unconnected-(K22-Pad2).
+Connected K22 pin 5 to unconnected-(K22-Pad5).
+Connected K22 pin 6 to unconnected-(K22-Pad6).
+Connected K22 pin 7 to unconnected-(K22-Pad7).
+Connected K23 pin 2 to unconnected-(K23-Pad2).
+Connected K23 pin 5 to unconnected-(K23-Pad5).
+Connected K23 pin 6 to unconnected-(K23-Pad6).
+Connected K23 pin 7 to unconnected-(K23-Pad7).
+Connected K24 pin 2 to unconnected-(K24-Pad2).
+Connected K24 pin 5 to unconnected-(K24-Pad5).
+Connected K24 pin 6 to unconnected-(K24-Pad6).
+Connected K24 pin 7 to unconnected-(K24-Pad7).
+Connected K25 pin 2 to unconnected-(K25-Pad2).
+Connected K25 pin 5 to unconnected-(K25-Pad5).
+Connected K25 pin 6 to unconnected-(K25-Pad6).
+Connected K25 pin 7 to unconnected-(K25-Pad7).
+Connected K26 pin 2 to unconnected-(K26-Pad2).
+Connected K26 pin 5 to unconnected-(K26-Pad5).
+Connected K26 pin 6 to unconnected-(K26-Pad6).
+Connected K26 pin 7 to unconnected-(K26-Pad7).
+Connected K27 pin 2 to unconnected-(K27-Pad2).
+Connected K27 pin 5 to unconnected-(K27-Pad5).
+Connected K27 pin 6 to unconnected-(K27-Pad6).
+Connected K27 pin 7 to unconnected-(K27-Pad7).
+Connected K28 pin 2 to unconnected-(K28-Pad2).
+Connected K28 pin 5 to unconnected-(K28-Pad5).
+Connected K28 pin 6 to unconnected-(K28-Pad6).
+Connected K28 pin 7 to unconnected-(K28-Pad7).
+Connected R9 pin 1 to /7_FUJITSU/R_POWER.
+Connected K20 pin 5 to unconnected-(K20-Pad5).
+Connected X3 pin 9 to unconnected-(X3-Pad9).
+Connected X2 pin 3 to unconnected-(X2-Pad3).
+Connected X4 pin 9 to unconnected-(X4-Pad9).
+Connected X2 pin 4 to unconnected-(X2-Pad4).
+Connected X5 pin 9 to unconnected-(X5-Pad9).
+Connected X2 pin 5 to unconnected-(X2-Pad5).
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Removed single pad net .
+Error: S1 pad 3 not found in my_Library_ftprint:SW_Push_2P1T_6x6mm.
+Error: S2 pad 4 not found in my_Library_ftprint:SW_Push_2P1T_6x6mm.
+Error: S2 pad 3 not found in my_Library_ftprint:SW_Push_2P1T_6x6mm.
+Error: S1 pad 4 not found in my_Library_ftprint:SW_Push_2P1T_6x6mm.
+
+
+Info: Total warnings: 0, errors: 4.
